@@ -9,8 +9,6 @@ Embeddings are essential in machine learning for representing data in dense, con
 - **Contextual Embeddings**: Dynamic, context-sensitive representations.
 - **Custom Embeddings**: Tailored for specific tasks or domains.
 
-This course explores these categories, their generation methods, tools, and use cases.
-
 ---
 
 ## **1. Static Embeddings**
